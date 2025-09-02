@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hi 👋, I'm Saylee Waje  
+🎓 Master’s Student in Computer Science @ **Stevens Institute of Technology**  
+💻 Former Java Developer @ **Tata Consultancy Services**  
+🌐 Passionate about **Backend Development, Cloud, and Data-Driven Applications**  
 
-<!--
-**Saylee1998/Saylee1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+- 🔭 Currently pursuing **M.S. in Computer Science** (focus: Data Mining, Machine Learning, Software Engineering)  
+- 💼 Worked as a **Java Developer at TCS**, migrating enterprise apps to the cloud and building scalable web apps with **Spring & Hibernate**  
+- ☁️ Experienced with **AWS & GCP**, CI/CD (Jenkins), and cloud-based deployments  
+- 📊 Strong background in **Python & Machine Learning**, with projects on healthcare analytics and predictive modeling  
+- ⚡ Built full-stack apps with **Node.js, Express.js, MongoDB, and React**  
+- 🌱 Always eager to learn new technologies and work on impactful projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Java, Python, JavaScript, SQL, C++  
+**Frameworks:** Spring, Hibernate, Express.js, Flask  
+**Frontend:** React.js, HTML, CSS  
+**Databases:** MySQL, MongoDB  
+**Cloud & DevOps:** AWS, GCP, Jenkins, Vercel, Git  
+**Other Tools:** Docker, Firebase, Maven  
+
+---
+
+## 📂 Featured Projects  
+- 🎥 **VideoTube** – YouTube-inspired backend app with **Node.js, Express, MongoDB**, JWT auth  
+- 📺 **Video Streaming App** – Built with **Node.js & Express**, supports HLS video streaming  
+- 🧠 **NICU Admission Prediction** – Machine learning models (Random Forest, Naive Bayes, MLP) to predict NICU admissions  
+- 💳 **BankingApp** – Java + MySQL project simulating core banking functionalities  
+
+---
+
+## 📫 Connect with Me  
+- 📧 Email: **saylee.waje@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sayleewaje)  
+- 💻 [GitHub](https://github.com/Saylee1998)
+- [Portfolio](https://saylee-portfolio.vercel.app/)
+
+
