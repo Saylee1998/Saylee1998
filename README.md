@@ -37,6 +37,6 @@
 - 📧 Email: **saylee.waje@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sayleewaje)  
 - 💻 [GitHub](https://github.com/Saylee1998)
-- [Portfolio](https://saylee-portfolio.vercel.app/)
+- 🌐 [Portfolio](https://saylee-portfolio.vercel.app/)
 
 
