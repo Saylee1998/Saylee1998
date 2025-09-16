@@ -16,11 +16,11 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Java, Python, JavaScript, SQL, C++  
+**Languages:** Java, Python, JavaScript, SQL  
 **Frameworks:** Spring, Hibernate, Express.js, Flask  
 **Frontend:** React.js, HTML, CSS  
 **Databases:** MySQL, MongoDB  
-**Cloud & DevOps:** AWS, GCP, Jenkins, Vercel, Git  
+**Cloud & DevOps:** AWS, Jenkins, Vercel, Git  
 **Other Tools:** Docker, Firebase, Maven  
 
 ---
