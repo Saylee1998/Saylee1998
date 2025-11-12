@@ -27,7 +27,6 @@
 
 ## 📂 Featured Projects  
 - 🎥 **VideoTube** – YouTube-inspired backend app with **Node.js, Express, MongoDB**, JWT auth  
-- 📺 **Video Streaming App** – Built with **Node.js & Express**, supports HLS video streaming  
 - 🧠 **NICU Admission Prediction** – Machine learning models (Random Forest, Naive Bayes, MLP) to predict NICU admissions  
 - 💳 **BankingApp** – Java + MySQL project simulating core banking functionalities  
 
