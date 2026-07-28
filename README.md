@@ -32,6 +32,12 @@
 
 ## 📂 Featured Projects
 
+### 🤖 AI-Powered Personal Task Manager
+Full-stack task management application built with Spring Boot, Spring Data JPA, H2, Thymeleaf, and the Gemini API. Includes task creation, filtering, sorting, analytics dashboards, priority-based business rules, and AI-generated task suggestions from natural-language input.
+
+**Tech:** Java, Spring Boot, Spring Data JPA, H2, Thymeleaf, Gemini API  
+🔗 https://github.com/Saylee1998/Personal-Task_Manager
+
 ### 🤖 AI Book Library MCP Server
 
 AI-powered backend application built with **Spring Boot + MCP**, enabling Claude Desktop to interact with backend business logic through natural language.
